@@ -1,2 +1,2 @@
 # mailEncryption
-Using python encrypt message that will be deleted after message been read or for specific date
+Using python, encrypt messages that will be deleted after the message has been read or for a specific date.
